@@ -4,7 +4,7 @@
 
 body{
     margin: 0;
-    background-color: whitesmoke;
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../public/images/ai_3.jpg");
 }
 
 *{
